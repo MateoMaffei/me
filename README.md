@@ -1,51 +1,49 @@
-# Un poco de lo que soy
-¡Hola! Soy Mateo, un desarrollador que siempre esta buscando aprender. Aca te cuento un poco de mi
+# Un poco sobre mí 😄
 
-Tengo 26 años, soy programador **Full-Stack** con su fuerte en el **Back-End** pero eso no significa que no me interiorice por el **Front-End**.
+¡Hola! Soy Mateo, un desarrollador apasionado por el aprendizaje continuo. Aquí te cuento un poco sobre mi trayectoria:
 
-Actualmente me encuentro trabajando para una Fintech de Rosario, mi puesto en la misma actualmente es de Team Lead y Product Owner
+Tengo 26 años y soy un programador **Full-Stack**, con un enfoque más fuerte en el **Back-End** (aunque no dejo de lado el **Front-End** 💻).
 
-> # Back-End
+Actualmente trabajo para una Fintech en Rosario, donde soy **Team Lead** y **Product Owner**.
 
-Desde mis inicios siempre estuve en contacto con tecnologias de Microsoft desde el **.NET Framework 4.7** pasando por **.NET Core 3.1** y pasando por todos sus sucesores hasta **.NET 8** con lenguaje **C#**, realizando distintos tipos de desarrollos como Api Rest, Aplicaciones de MVC, Workers, Aplicaciones de Escritorio, Bibliotecas de Clases y NuGets. 
+## Back-End 💾
 
-Se trabajo mucho con ORM en su mayoria **Entity Framework** pero tambien se utilizo **NHibernate**
+Desde el principio, he estado en contacto con tecnologías de Microsoft, comenzando con **.NET Framework 4.7**, pasando por **.NET Core 3.1**, y siguiendo con todas sus versiones hasta **.NET 8**, utilizando **C#**. He trabajado en diversos proyectos como APIs REST, aplicaciones MVC, workers, aplicaciones de escritorio, bibliotecas de clases y **NuGets**.
 
+Además, tengo mucha experiencia con ORM, principalmente **Entity Framework**, aunque también he trabajado con **NHibernate**. 💡
 
-Tambien estuve mucho en contacto con admisitracion y creacion de bases de datos, en ella utilize **SQL Server** y **SQL Management Studio** para poder llevar a cabo mis consultas, la creacion de las tablas con sus campo y modificaciones de las mismas, mis creaciones de Stored Procedure y creacion de Trigger, etc.
+He tenido un gran enfoque en la administración y creación de bases de datos, trabajando con **SQL Server** y **SQL Management Studio**. Aquí he realizado consultas, creación de tablas, stored procedures, triggers, entre otros.
 
-> # Front-End
+## Front-End 🎨
 
-Del lado del front siempre fui muy autodidacta y sabiendo que desde el principio mi fuerte iba a ser el back, me dedique a aprender tecnologias como **HTML, CSS y JavaScript** a medida que seguia mis estudios. 
+En cuanto al front, siempre fui autodidacta. Sabía que mi fuerte sería el back, pero aun así aprendí tecnologías como **HTML, CSS y JavaScript** mientras avanzaba en mis estudios.
 
-Una vez ya establecido como desarrollador fue aprendiento nuevas tecnologias como **JQuery** y distintas librerias de JavaScript que mejoraban mi stack tecnologico.
+Con el tiempo, aprendí **JQuery** y varias librerías de JavaScript para mejorar mi stack. Posteriormente, me sumergí en **Angular** (versión 13) y descubrí un framework que me fascinó, aprendiendo también **TypeScript** y nuevas formas de desarrollar aplicaciones web. 🚀
 
-Luego de eso decidi aprender **Angular** en su version 13 la cual me gusto bastante y me interiorice de lleno al framework, con el aprendi TypeScript y una nueva manera de desarrollar aplicaciones webs.
+Hoy, (04/09/2024) estoy aprendiendo **Flutter**, un SDK que permite desarrollar aplicaciones móviles tanto para Android como para iOS, utilizando el lenguaje **Dart**. ¡Aún estoy empezando, pero seguro aprenderé mucho! 📱
 
-Tambien a la fecha de hoy (04/09/2024) estoy aprendiento Flutter un SDK que permite desarrollar apicaciones mobiles para Android y para IOS con el lenguaje de programacion Dart. Aun estoy en mis inicios pero estoy convencido que voy a aprender mucho sobre esto.
+## Habilidades compartidas 🔧
 
-> # Habilidades compartidas
+Entre mis habilidades destacadas están el versionado de código con **Git, GitHub y GitLab**, además de las metodologías **Scrum** como **Kanban** y **Scrumban**. También destaco mi capacidad de **resolución de problemas**.
 
-Como habilidades compartidas destaco lo que seria el versionado de codigo con **Git, GitHub y GitLab**, tecnicas de **Scrum como Kanban y Scrumban** ademas de la **capacidad de resolucion de problemas**
+## Mi experiencia profesional 💼
 
-> # Mi experiencia profesional
+**SG Financial Technology** *(SEP 2022 - Actualidad)*  
+- Mantenimiento y desarrollo Back-End con tecnologías .NET Core 3.1, .NET 5, 6, 7 y 8.  
+- Mantenimiento y desarrollo Front-End con Angular (desde la versión 9 hasta la 14).  
+- Liderazgo de equipo, Team Lead y Product Owner.  
+- Gestión de repositorios con Git y GitLab (aprobación de Merge Requests, revisión de código, optimización de CI/CD).  
 
-**SG Financial Tecnology** *SEP 2022 - ACUALIDAD*
-- Mantenimiento y desarrollo Back-End con tecnologias .NET Core 3.1, .Net 5,6,7 y 8.
-- Mantenimiento y desarrollo Front-End con Angular desde la version 9 hasta la 14
-- Manejo de equipo, Teach Lead y Product Owner
-- Mantenimiento de repositorios con Git y GitLab (aprobaciones de Merge Request, revicion de codigo, limpieza de codigo y mantenimiento del flujo CI/CD)
+**SolInf S.A.** *(MAR 2022 - SEP 2022)*  
+- Mantenimiento y desarrollo Full-Stack con .NET Framework 4.7 en modelo MVC.  
+- Desarrollo y administración de bases de datos.  
+- Publicación y despliegue de aplicaciones web con IIS.  
 
-**SolInf S.A.** *MAR 2022 - SEP 2022*
-- Mantenimiento y desarrollo Full-Stack con entornos .NET con Framework 4.7 en modelo MVC
-- Desarrollo de Base de Datos
-- Publicacion y despliegue de aplicaciones web con IIS
+**Sistemas Pleanrio** *(OCT 2021 - MAR 2022)*  
+- Mantenimiento y desarrollo de aplicaciones de escritorio con **DevExpress**.  
+- Aplicación de metodologías **SCRUM**.
 
-**Sistemas Pleanrio** *OCT 2021 - MAR 2022*
-- Mantenimiento y desarrollo de Aplicaciones de Escritorio con Dev Express
-- Tecnicas de SCRUM
-
-**Efisat+** *JUN 2021 - OCT 2021*
-- Mantenimiento y desarrollo Back-End con entorno .NET framework 4.7
-- Mantenimiento y desarrollo Front-End con HTML, CSS, Bootstrap, JavaScript y JQuery
-- Tecnicas de SCRUM
+**Efisat+** *(JUN 2021 - OCT 2021)*  
+- Desarrollo Back-End con .NET Framework 4.7.  
+- Desarrollo Front-End con HTML, CSS, Bootstrap, JavaScript y JQuery.  
+- Aplicación de técnicas **SCRUM**.
