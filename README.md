@@ -39,7 +39,7 @@ Entre mis habilidades destacadas están el versionado de código con **Git, GitH
 - Desarrollo y administración de bases de datos.  
 - Publicación y despliegue de aplicaciones web con IIS.  
 
-**Sistemas Pleanrio** *(OCT 2021 - MAR 2022)*  
+**Sistemas Pleanrios** *(OCT 2021 - MAR 2022)*  
 - Mantenimiento y desarrollo de aplicaciones de escritorio con **DevExpress**.  
 - Aplicación de metodologías **SCRUM**.
 
